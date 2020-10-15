@@ -9,3 +9,4 @@ files that have '*.txt' ending in the file name are picked. First, we check if a
 After all files are processed, we check for errors and display results in the console.
 
 To display results we write 'print' to the console. Values that are not set in the reading phase are displayed as 'Error'. Each layer of the data is displayed to the console. Depending on the data that we're given we can see changes that were made to each layer.
+
