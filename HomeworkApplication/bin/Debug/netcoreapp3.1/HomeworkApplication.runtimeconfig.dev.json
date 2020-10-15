@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Methian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Methian\\.nuget\\packages"
+    ]
+  }
+}

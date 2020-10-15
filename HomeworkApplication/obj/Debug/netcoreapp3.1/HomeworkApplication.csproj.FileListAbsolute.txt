@@ -1,0 +1,12 @@
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.exe
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.deps.json
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.runtimeconfig.json
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.runtimeconfig.dev.json
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.dll
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\bin\Debug\netcoreapp3.1\HomeworkApplication.pdb
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.AssemblyInfoInputs.cache
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.AssemblyInfo.cs
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.csproj.CoreCompileInputs.cache
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.dll
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.pdb
+C:\Users\Methian\source\repos\HomeworkApplication\HomeworkApplication\obj\Debug\netcoreapp3.1\HomeworkApplication.genruntimeconfig.cache
