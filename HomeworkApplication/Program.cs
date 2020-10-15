@@ -81,7 +81,7 @@ namespace HomeworkApplication
                     if ((configId = ContainsAny(trimmed, configIds)) != String.Empty)
                     {
                         string[] value = trimmed.Split(separators);
-                        switch (value[0])
+                        switch (configId)
                         {
                             case "ordersPerHour":
                                 data.SetOrdersPerHour(int.Parse(value[1]));
@@ -127,7 +127,7 @@ namespace HomeworkApplication
                 //TODO check if everything is alright
             }
             Verificate(dataLayers);
-            Console.WriteLine("Data layer for file: {0} were generated", file);
+            Console.WriteLine("Data layer for file: {0} was generated", file);
         }
 
         /// <summary>
